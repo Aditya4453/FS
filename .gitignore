@@ -1,0 +1,12 @@
+# OS and Editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Office temporary lock files
+~$*
+*.tmp
+
+# Dependencies
+node_modules/
